@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/icons8-F-26.png</file>
+        <file>Icons/icons8 insert-32.png</file>
+        <file>Icons/icons8-close-32.png</file>
+        <file>Icons/icons8-copy-64.png</file>
+        <file>Icons/icons8-create new-26.png</file>
+        <file>Icons/icons8-cut-32.png</file>
+        <file>Icons/icons8-delete-26.png</file>
+        <file>Icons/icons8-do-26.png</file>
+        <file>Icons/icons8-edit-64.png</file>
+        <file>Icons/icons8-open-26.png</file>
+        <file>Icons/icons8-save-26.png</file>
+        <file>Icons/icons8-Undo-26.png</file>
+        <file>Icons/icons8-Exit-32.png</file>
+        <file>Icons/icons8-save_as-24.png</file>
+        <file>Icons/icons8-inf-26.png</file>
+        <file>Icons/Qt.png</file>
+        <file>Icons/icons8-text_edit-48.png</file>
+    </qresource>
+</RCC>
