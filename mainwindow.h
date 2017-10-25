@@ -30,7 +30,7 @@ public:
     QFont font;
 
 private slots:
-    void MainWindow::closeEvent(QCloseEvent *event);
+    void closeEvent(QCloseEvent *event);
 
     void on_pushButton_Create_clicked();
 
